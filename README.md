@@ -1,5 +1,34 @@
 # 💫 About Me:
-<br>👋 About Me<br>Hello! I'm Adham Zineldin, a Computer Science student at Helwan University. I'm passionate about software engineering and constantly working to level up my skills with hands-on projects and internships.<br><br>🛠️ My Goal<br>My ambition is to become a top 1% software engineer. I'm actively working on projects that strengthen my skills in web development, mobile development, os development, game design, and cloud infrastructure.<br><br>🚀 What I’m Currently Working On<br>MEAN Stack Website: Building a step-by-step web application to refine my full-stack development skills.<br>Game Development: Creating an Angular game where players control a rocket, avoiding obstacles and engaging in gameplay mechanics like shooting and collision detection.<br>Mobile Development: Developing mobile applications using Flutter, Kotlin, and Java, exploring both cross-platform and native Android development.<br>Cloud Infrastructure: Exploring AWS and Django deployment automation, learning about EC2, S3, and RDS, and automating deployments with Python.<br>🌱 What I'm Learning<br>I'm currently diving into:<br><br>Angular & MEAN Stack<br>AWS & Cloud Deployment<br>Mobile Development with Flutter, Kotlin & Java<br>Advanced Python for Automation<br>💬 Let's Connect!<br>If you share similar interests or are working on related projects, I’d love to connect! I'm always open to collaborating on new and exciting projects.
+<h3>👋 About Me</h3>
+<p>Hello! I'm Adham Zineldin, a Computer Science student at Helwan University. I'm passionate about software engineering and constantly working to level up my skills with hands-on projects and internships.</p>
+
+<h3>🛠️ My Goal</h3>
+<p>My ambition is to become a top 1% software engineer. I'm actively working on projects that strengthen my skills in web development, mobile development, OS development, game design, and cloud infrastructure.</p>
+
+<h3>🚀 What I’m Currently Working On</h3>
+<ul>
+  <li><strong>MEAN Stack Website</strong>: Building a step-by-step web application to refine my full-stack development skills.</li>
+  <li><strong>Game Development</strong>: Creating an Angular game where players control a rocket, avoiding obstacles and engaging in gameplay mechanics like shooting and collision detection.</li>
+  <li><strong>Mobile Development</strong>: Developing mobile applications using Flutter, Kotlin, and Java, exploring both cross-platform and native Android development.</li>
+  <li><strong>Backend Development</strong>: Working with PHP (pure PHP and Laravel), building robust backend systems for web applications and services.</li>
+  <li><strong>Frontend Development</strong>: Using React for dynamic web applications and building seamless user interfaces.</li>
+  <li><strong>Cloud Infrastructure</strong>: Exploring AWS and Django deployment automation, learning about EC2, S3, and RDS, and automating deployments with Python.</li>
+</ul>
+
+<h3>🌱 What I'm Learning</h3>
+<p>I'm currently diving into:</p>
+<ul>
+  <li>Angular & MEAN Stack</li>
+  <li>AWS & Cloud Deployment</li>
+  <li>Mobile Development with Flutter, Kotlin & Java</li>
+  <li>Advanced Python for Automation</li>
+  <li>Backend Development with PHP & Laravel</li>
+  <li>Frontend Development with React</li>
+</ul>
+
+<h3>💬 Let's Connect!</h3>
+<p>If you share similar interests or are working on related projects, I’d love to connect! I'm always open to collaborating on new and exciting projects.</p>
+
 
 
 ## 🌐 Socials:
